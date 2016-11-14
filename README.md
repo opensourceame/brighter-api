@@ -23,4 +23,3 @@ For a more long-term permanent project I would include automatic recreation of t
 
 I chose to give the subscription (UserPlan class) a status field rather than deleting a record from a database when the user unsubscribes as I believe it's important to keep historical records for this kind of thing.
 
-Not all tests pass
