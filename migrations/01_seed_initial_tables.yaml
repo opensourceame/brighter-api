@@ -1,0 +1,27 @@
+Plan:
+  -
+    name:           books
+    description:    Unlimited e-books per month
+  -
+    name:           music
+    description:    Unlimited music per month
+  -
+    name:           video
+    description:    Unlimited video per month
+
+User:
+  -
+    first_name:     Joe
+    last_name:      Bloggs
+    email:          joe@bloggs.com
+  -
+    first_name:     Sinter
+    last_name:      Klass
+    email:          sinter@klaas.nl
+
+
+UserPlan:
+  -
+    user_id:            1
+    plan_id:            1
+    subscribed_on:      2016-01-01
